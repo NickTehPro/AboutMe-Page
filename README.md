@@ -1,2 +1,2 @@
-# site
-Github Pages
+# Hey
+That's my personal website.
